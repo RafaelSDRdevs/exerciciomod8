@@ -1,4 +1,4 @@
-            #language:pt
+          #language:pt
 
             Funcionalidade: tela de login
             Como aluno do portal EBAC
@@ -32,10 +32,3 @@
             | "joao@ebac.com.br" | "teste@123" | "Olá João" |
             | "moao@ebac.com.br" | "teste@123" | "Olá João" |
             | "aoao@ebac.com.br" | "teste@123" | "Olá João" |
-
-            Exemplos:
-            | Alteracao    | produto              | mensagem                             |
-            | "tamanho"    | "for alterado"       | "selecionado com sucesso"            |
-            | "cores"      | "for alterado"       | "cor selecionada com sucesso"        |
-            | "quantidade" | "for alterado"       | "quantidade selecionada com sucesso" |
-            | "limpar"     | "retornar ao inicio" | "Retornado ao estado inicial"        |
