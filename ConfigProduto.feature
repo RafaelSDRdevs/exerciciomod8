@@ -27,11 +27,6 @@
             E houver o retorno ao estado inicial
             Então Deve exibir uma mensagem: "Retornado ao estado inicial"
 
-            Funcionalidade: tela de login
-            Como cliente do site Ebac
-            Quero realizar login na tela de autenticação
-            Para pvisualizar meus pedidos
-
             Contexto: que eu acesse a página de autenticação do site EBAC
 
             Esquema do Cenário: Alterar multiplos produtos
