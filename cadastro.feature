@@ -28,8 +28,6 @@
             Então Deve exibir a <mensagem> De dado cadastrado com sucesso
 
             Exemplos:
-            | usuario          | email        | mensagem                      |
-            | "email"          | "a@a.com.br" | "dado cadastrado com sucesso" |
-            | "email"          | "a.com.br"   | "erro ao cadastrar o email"   |
-            | "dados pessoais" | "rafael"     | "dado cadastrado com sucesso" |
-            | "dados pessoais" | "azcuzartes" | "erro ao cadastrar dados"     |
+            | usuario  | email        | mensagem                      |
+            | "joão"   | "a@a.com.br" | "dado cadastrado com sucesso" |
+            | "rafael" | "a.com.br"   | "erro ao cadastrar o email"   |
